@@ -1,0 +1,22 @@
+{
+  "name": "aurelia-enhanced-template",
+  "version": "1.0.0",
+  "description": "Decorator to extract template from an enhanced custom element with Aurelia.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hadrienl/aurelia-enhanced-template.git"
+  },
+  "keywords": [
+    "aurelia.io"
+  ],
+  "author": "Hadrien Lanneau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hadrienl/aurelia-enhanced-template/issues"
+  },
+  "homepage": "https://github.com/hadrienl/aurelia-enhanced-template#readme"
+}
